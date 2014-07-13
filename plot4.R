@@ -1,4 +1,4 @@
-# Script for Plot 3 examining household power usage over 01-02/02/2007
+# Script for Plot 4 examining household power usage over 01-02/02/2007
 # Data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 # Please download and unzip in your working directory
 
